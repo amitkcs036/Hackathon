@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SampleVoiceRecognizationActivity!</string>
+    <string name="app_name">Fone Finder</string>
+    <string name="enable_diable_Finder">Enable or Disable finder Below</string>
+    <string name="select_alarm_mode">Select Alarm Mode :</string>
+    <string name="default_ringtone_set">Defalult Ringtone Set</string>
+    <string name="set_recognizer_text">Set your own text below :</string>
+    <string-array name="alarm_mode">
+        <item>Custom Text</item>
+        <item>Alarm Ringtone</item>
+    </string-array>
+    <string-array name="custom_text">
+        <item>Find My Fone</item>
+        <item>Locate My Fone</item>
+        <item>Search My Fone</item>
+    </string-array>
+
+</resources>

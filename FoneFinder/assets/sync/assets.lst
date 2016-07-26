@@ -1,0 +1,13 @@
+models/dict/cmudict-en-us.dict
+models/grammar/digits.gram
+models/grammar/menu.gram
+models/hmm/en-us-ptm/README
+models/hmm/en-us-ptm/feat.params
+models/hmm/en-us-ptm/mdef
+models/hmm/en-us-ptm/means
+models/hmm/en-us-ptm/noisedict
+models/hmm/en-us-ptm/sendump
+models/hmm/en-us-ptm/transition_matrices
+models/hmm/en-us-ptm/variances
+models/lm/weather.dmp
+models/phone/en-phone.dmp
